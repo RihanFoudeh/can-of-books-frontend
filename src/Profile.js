@@ -15,8 +15,9 @@ export class Profile extends Component {
         this.state = {
             userName: this.props.auth0.user.name,
             userEmail: this.props.auth0.user.email,
-            userPicture: this.props.auth0.user.picture
+            userPicture: this.props.auth0.user.picture,
         }
+        console.log(this .state.userPicture)
     }
 
     render() {
