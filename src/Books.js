@@ -17,7 +17,7 @@ class Books extends Component {
                     <Carousel.Item>
                         <img
                             className="d-block w-100"
-                            src="https://www.cnet.com/a/img/zKiT35AfPlfRJvlHty6p4zmpCrw=/940x0/2020/05/01/7f0a951f-d9a2-4847-b962-b254b63842a2/img-4960.jpg"
+                            src="https://media.istockphoto.com/photos/many-hardbound-books-background-selective-focus-picture-id1209683444?k=20&m=1209683444&s=612x612&w=0&h=apRHyEOnUCQ7gXkIChHTyixwezHZ4Bm6tDyr7zwu32Y="
                             alt="Third slide"
                         />
 
