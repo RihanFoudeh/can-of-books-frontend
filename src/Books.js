@@ -43,7 +43,7 @@ class Books extends Component {
                                 </Card.Text>
                                 <Card.Text>
                                 <Button variant="primary" type="submit" onClick={() => this.props.deleteBook(item._id)} >Delete</Button>
-                                </Card.Text>
+                                <Button variant="primary" type="submit" onClick={() => this.props.showUpdateForm(item)}>Update</Button>                                </Card.Text>
                             </Card.Body>
                             <Card.Footer>
                               
